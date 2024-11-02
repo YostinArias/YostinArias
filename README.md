@@ -23,9 +23,9 @@ My focus on collaborative work, strategic problem-solving, and continuous innova
 
 ## 💼 Projects
 Here are a few highlights of my projects:
-- **[Project Name 1](#)**: Brief description of the project, technologies used, and link to the repository.
-- **[Project Name 2](#)**: Brief description of the project, technologies used, and link to the repository.
-- **[Project Name 3](#)**: Brief description of the project, technologies used, and link to the repository.
+- **[TCU](https://github.com/YostinAr/TCU.git)**: Este sistema se enfoca en un inventario general para un colegio, con registro de apartado y consultas.
+- **[El Varon](https://github.com/WakoSD/ElVaron_Proyecto.git)**: Este proyecto tiene un enfoque en un sistema de compra y venta de platos, ademas cuenta con apartado de mesa, consultas entre otras caracteristicas.
+- **[Bukana](https://github.com/YostinAr/Sistemas.git)**: Este sistema tiene un enfoque de catalogo y apartado de productos, con una interfaz de usurio intuitiva para la venta de ropa a mujeres.
 
 ---
 
