@@ -1,31 +1,53 @@
-<h1>👨‍💻 Yostin Arias Zuñiga | Desarrollador de Software</h1>
+# 👨‍💻 Yostin Arias Zuñiga | Software Developer 
 
-<h2>Sobre mí</h2>
-<p>
-    Soy Ingeniero en Sistemas con sólida experiencia en desarrollo web y en la creación de aplicaciones escalables, centradas en el usuario y de alto rendimiento. Domino tecnologías de front-end y back-end, incluyendo <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>React</strong>, <strong>C#</strong>, <strong>.NET Core</strong> y <strong>Node.js</strong>, así como bases de datos relacionales y no relacionales, infraestructura de servidores y control de versiones mediante <strong>Git</strong>.
-</p>
-<p>
-    Mi enfoque en el trabajo colaborativo, la resolución estratégica de problemas y la innovación constante me permite implementar soluciones alineadas con los objetivos empresariales. Cuento con certificaciones en redes y Scrum, lo que demuestra mi compromiso con el aprendizaje continuo y la excelencia en la gestión de proyectos.
-</p>
+---
 
-<h2>🛠️ Habilidades Técnicas</h2>
-<ul>
-    <li><strong>Front-end</strong>: 🌐 HTML, CSS, JavaScript, React</li>
-    <li><strong>Back-end</strong>: ⚙️ C#, .NET (Framework y Core), Java, Node.js</li>
-    <li><strong>Bases de Datos</strong>: 🗄️ MySQL, SQLite, Oracle (PLSQL), MongoDB</li>
-    <li><strong>Infraestructura</strong>: 🖥️ Servidores, Linux, Windows Server</li>
-    <li><strong>Control de Versiones</strong>: 🔧 Git, GitHub</li>
-    <li><strong>Otros</strong>: 📊 PowerBI, SharePoint</li>
-</ul>
+## About Me
+I am a Systems Engineer with solid experience in web development and building scalable, user-centered, high-performance applications. I am proficient in front-end and back-end technologies, including **HTML**, **CSS**, **JavaScript**, **React**, **C#**, **.NET Core**, and **Node.js**, as well as relational and non-relational databases, server infrastructure, and version control with **Git**.
 
-<h2>🏆 Certificaciones</h2>
-<ul>
-    <li><strong>Cisco Networking Academy</strong>: 🌐 Introducción a Redes</li>
-    <li><strong>Scrum Fundamentals Certified</strong> (ScrumStudy)</li>
-</ul>
+My focus on collaborative work, strategic problem-solving, and continuous innovation enables me to implement solutions aligned with business objectives. I hold certifications in networking and Scrum, reflecting my commitment to continuous learning and excellence in project management.
 
-<h2>📞 Contacto</h2>
-<ul>
-    <li><strong>Teléfono</strong>: (+506) 8494-0560</li>
-    <li><strong>Correo</strong>: <a href="mailto:yostinarias220@gmail.com">yostinarias220@gmail.com</a></li>
-</ul>
+---
+
+## 🛠️ Technical Skills
+- **Front-end**: 🌐 HTML, CSS, JavaScript, Angular, React
+- **Back-end**: ⚙️ C#, .NET (Framework and Core), Java, Node.js
+- **Databases**: 🗄️ SQL Server, MySQL, SQLite, Oracle (PLSQL), MongoDB
+- **Infrastructure**: 🖥️ Servers, Linux, Windows Server
+- **Version Control**: 🔧 Git, GitHub
+- **Others**: 📊 PowerBI, SharePoint, Selenium (testing)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+  ### Overall GitHub Statistics 📈
+  
+  ![Yostin's GitHub stats](https://github-readme-stats.vercel.app/api?username=YostinAr&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_rank=true&hide_border=true)
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YostinAr&layout=compact&theme=radical&hide_border=true&langs_count=8)
+
+  ### Contribution Streak 🔥
+
+  ![GitHub Streak](https://streak-stats.demolab.com?user=YostinAr&theme=radical&date_format=j%20M%5B%20Y%5D&hide_border=true)
+  
+</div>
+
+---
+
+## 🏆 Certifications
+- **Cisco Networking Academy**: 🌐 Introduction to Networks
+- **Scrum Fundamentals Certified** (ScrumStudy)
+
+---
+
+## 📞 Contact
+- **Phone**: [+506 8494-0560](tel:+50684940560)
+- **Email**: [yostinarias220@gmail.com](mailto:yostinarias220@gmail.com)
+- **GitHub**: [YostinAr](https://github.com/YostinAr)
+
+---
+
+**Thank you for visiting my profile!**
